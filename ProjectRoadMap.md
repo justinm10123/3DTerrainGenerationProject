@@ -1,0 +1,12 @@
+# H1 Project Checklist
+- [x] Get Topic Approved
+- [x] Establish GitHub Account and Join Class Organization
+- [x] Establish Ownership of a Repository
+- [x] Edit and Commit Changes to readme.md file
+- [x] Explored Python Code Related to Project
+- [x] Create Initial Code in MAIN_PROJECT.py to import data, functions, and files and to display everything
+- [x] Create GUI interface linking initial code with buttons for a clean look
+- [x] Improve look and feel of GUI with possible nested windows
+- [x] Create function that will be used to generate random terrain (2d array which will be converted to 3d)
+- [x] Attach random terrain generation function to Tkinter button
+- [x] Possibly Generate statistics for the loaded file DEM and/or random generated terrain? (Average DEM height, slope, etc...)
